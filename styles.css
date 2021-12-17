@@ -1,0 +1,33 @@
+.list-group{
+    width: 95%;
+    margin-left: 2.5%;
+    height: 100%;
+}
+
+.item_uno{
+    
+}
+
+.item_dos{
+
+}
+
+.item_tres{
+
+}
+
+.item_cuatro{
+
+}
+
+.item_cinco{
+    
+}
+
+.footer{
+    align-content: center;
+    width: 100%;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+}
